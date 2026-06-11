@@ -155,3 +155,37 @@ A simple monitor for the Loran-C and under-development eLoran system. A recent W
 [![](http://www.kiwisdr.com/README/eLoran.780px.png)](http://www.kiwisdr.com/README/eLoran.png)
 
 [end-of-document]
+
+What about the minimal ethics?
+
+1. Just take a simple worm.
+
+2. It has a very simple neural net,
+that emits and recieve very low frequency radio waves.
+
+3. Highly likely it may be useful to use short impulses,
+like in the PSU.
+
+4. To send and receive even very low frequency waves you can use
+very short antennas if impedance is matched.
+
+5. The modern beam forming is possible with the sub-mm accuracy,
+and with high speed sampling rate you can sample neurons group
+by group.
+
+You can start with that.
+
+The next step depends on what is the real algorithmic complexity
+of the human brain and behavior is.
+
+But to estimate it you can just take a look at the IPCAMERAS,
+and get that is is very small.
+
+And the real complexity of the huan behavior is low.
+
+https://transitional-writes.dreamwidth.org/44972.html
+
+It seems the minimum description length principle could be used to deduce minimum ethics. At least you can compare ethics by the length. What about the following question: how to shoot met-art girl in the dark underground? ~2026-24709-41 (talk) 16:43, 8 June 2026 (UTC) 
+
+https://en.wikipedia.org/wiki/Talk:Solomonoff%27s_theory_of_inductive_inference
+
